@@ -1,4 +1,9 @@
 # Testing Practice
 
-Feat.
+Featuring
+
+- **Jest**
+- **Modules**
+- **Babel**
+
 
